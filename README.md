@@ -1,4 +1,4 @@
 # Manthan-demo
 This is my first Git Repository.
 <br>
-Author - MANTHAN GARG
+Author - MANTHAN GARG ( chitkara)
